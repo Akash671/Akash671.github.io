@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Akash homepage
-description: Universe and Space Research (Galaxy , Stars , Black Hole and Planets)
+title: Akash Kumar
+description: Personal site about space research
+theme: minima
+markdown: kramdown
+show_excerpts: true
