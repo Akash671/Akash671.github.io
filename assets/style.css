@@ -1,0 +1,46 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: radial-gradient(circle at top, #0d1b2a, #000);
+  color: #eee;
+  margin: 0;
+  padding: 0;
+}
+
+header.hero {
+  text-align: center;
+  padding: 4em 1em;
+  background-image: url('https://source.unsplash.com/1600x900/?space,stars');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+section {
+  padding: 2em;
+  max-width: 800px;
+  margin: auto;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin: 0.5em 0;
+  font-size: 1.1em;
+}
+
+.project-card {
+  background: #1b263b;
+  padding: 1em;
+  border-radius: 8px;
+  margin-top: 1em;
+}
+
+footer {
+  text-align: center;
+  padding: 2em;
+  font-size: 0.9em;
+  color: #aaa;
+}
