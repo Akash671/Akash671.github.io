@@ -6,7 +6,7 @@ body {
   padding: 0;
 }
 
-header.hero {
+.hero {
   text-align: center;
   padding: 4em 1em;
   background-image: url('https://source.unsplash.com/1600x900/?space,stars');
@@ -21,21 +21,11 @@ section {
   margin: auto;
 }
 
-ul {
-  list-style: none;
-  padding: 0;
-}
-
-li {
-  margin: 0.5em 0;
-  font-size: 1.1em;
-}
-
-.project-card {
+.card {
   background: #1b263b;
   padding: 1em;
   border-radius: 8px;
-  margin-top: 1em;
+  margin: 1em 0;
 }
 
 footer {
